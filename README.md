@@ -40,4 +40,14 @@ a)Listes
 
 
 Structure des pages
+Global
+	-Navigation
+	-Footer
+Inscription
+
+a) Inscription sous forme de pop up 
+b) CAPTCHA caché
+Connexion
+a) Connexion sous forme de ?
+b) CAPTCHA caché
 
