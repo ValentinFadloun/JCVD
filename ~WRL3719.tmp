@@ -13,31 +13,5 @@ Base de données : MySQL (SQL).
 
 Nos 6 pages ( composants ) :
 1 - Accueil 
-a) Section de recherche 
-- Départ
-- Arrivée
-- Date 
-- Heure
-- Image de fond
-b) Section comment ca marche ?
-c) Section départ imminent
-
-2 - Inscription/connexion 
-a) Inscription
-- Nom 
-- Prénom
-- Mail
-- MDP
-- 
-b) Connexion
-- Pseudo/ Mail / Mobile
-- MDP
-3 - Profil
-4 - Résultats 
-a)Listes 
-5 - Détail du trajet sélectionné 
-6 - Page de réservation
-
-
-Structure des pages
-
+2 - Inscription/connexion ( pop-up)
+3 - 
