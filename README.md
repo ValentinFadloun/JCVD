@@ -51,3 +51,11 @@ Connexion
 a) Connexion sous forme de ?
 b) CAPTCHA caché
 
+
+
+Note techniques :
+Hébergement Base de Données : PlanetHoster
+Name Base de Données : siteDeGroupe
+User Base de Données : adminGroupe
+Password Base de Données : JaouadClaraValentinYoussouf
+
